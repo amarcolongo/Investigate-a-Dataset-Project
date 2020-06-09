@@ -1,0 +1,9 @@
+https://ipython.readthedocs.io/en/stable/interactive/magics.html
+
+https://realpython.com/pandas-python-explore-dataset/#getting-to-know-your-data
+
+https://stackoverflow.com/questions/31571217/loc-function-in-pandas
+
+https://python-graph-gallery.com/4-add-title-and-axis-label/
+
+https://chrisalbon.com/python/data_wrangling/pandas_apply_operations_to_dataframes/
